@@ -1,0 +1,5 @@
+/*
+!/dist/
+
+# Ignore everything inside the 'dist' folder
+/dist/*
